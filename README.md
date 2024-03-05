@@ -51,3 +51,4 @@ React.js
 JavaScript  
 HTML5  
 CSS3  
+LocalStorage
