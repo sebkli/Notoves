@@ -1,19 +1,53 @@
-# Notes App Made with ReactJs
+# Project Title
 
-## About
+## Table of contents
 
-> Basic application for storing notes inside of you browser
+- [Overview](#overview)
+- [Installation](#installation)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Technologies](#technologies)
 
-## Installation Instructions
+## Overview
 
-1. Run `cd react-movie-app`
-2. Run `npm install`
-3. Run `npm start`
+This is a simple yet powerful application built using React.js that allows users to create, manage, and organize their notes effectively.
 
-## Built With
+## Installation
 
-- [React JS]
-- [CSS]
+Navigate to the project directory:
+
+```bash
+  cd Notoves
+```
+
+Install dependencies using npm:
+
+```bash
+  npm install
+```
+
+Start the development server:
+
+```bash
+  npm start
+```
+
+Open your browser and visit http://localhost:3000 to view the application.
+
+## Features
+
+- **Create Notes**: Easily create new notes with a title and content..
+- **Edit Notes**: Modify the title and content of existing notes.
+- **Delete Notes**: Remove unwanted notes from your collection.
+
+## Screenshots
 
 <img src='public/notes.png'><br>
 <img src='public/newnote.png'><br>
+
+## Technologies
+
+React.js  
+JavaScript  
+HTML5  
+CSS3  
