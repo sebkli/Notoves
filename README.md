@@ -47,8 +47,8 @@ Open your browser and visit http://localhost:3000 to view the application.
 
 ## Technologies
 
-React.js  
-JavaScript  
-HTML5  
-CSS3  
-LocalStorage
+- React.js  
+- JavaScript  
+- HTML5  
+- CSS3  
+- LocalStorage
